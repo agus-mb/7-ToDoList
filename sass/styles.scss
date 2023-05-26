@@ -30,7 +30,7 @@ body{
 
         input{
             background-color: rgb(215, 235, 235);
-            width: 400px;
+            width: 350px;
             height: 45px;
             border: 0px;
             border-radius: 30px;
@@ -51,6 +51,20 @@ body{
            padding: 0px;
            font-size: 40px;
         }
+        }
+
+        .list ul{
+            padding:0px;
+            width: 400px;
+            font-size: 20px;
+            list-style:none;
+            li{
+                background-color: rgb(201, 201, 201);
+                padding:10px;
+                margin:5px;
+                border-radius: 30px;
+            }
+        
         }
 
         }
